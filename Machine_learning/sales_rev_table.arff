@@ -1,0 +1,11 @@
+@relation "sales_rev"
+@attribute sales_revenue numeric
+@attribute advertisement_expendature numeric 
+
+@data
+16, 4
+12, 3
+20, 7
+17, 2
+18, 6
+25, 8
