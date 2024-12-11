@@ -1,0 +1,20 @@
+{
+    "fileMetrics": "file,Code Lines\nProject Files/menu1.java,95\nProject Files/chatform.java,286\nProject Files/ftpser1.java,253\nProject Files/chat.java,173\nProject Files/form1.java,68\nProject Files/filter.java,94\nProject Files/sendall.java,95\nProject Files/killall.java,63\nProject Files/clientform.java,29\nProject Files/chatform1.java,128",
+    "funcTop10": "function,cyclomatic\nchatform.run,18\nmul2.run,14\nchatform.chatform,9\nchatform1.run,9\nchat.run,7\nfilter.getDescription,6\nsendall.actionPerformed,6\nchat.chat,5\nkillall.actionPerformed,5\nchat.actionPerformed,4\nchat.addlabel,4\nchatform.actionPerformed,4\nchatform.addlabel,4\nquitting.run,4\nfilter.accept,4\nform1.actionPerformed,4\nmenu1.mousePressed,4",
+    "languages": "Java",
+    "metricsVersion": 3,
+    "parsetime": 1732682126,
+    "summaryMetric/CountAnalysisError": 0,
+    "summaryMetric/CountAnalysisWarning": 0,
+    "summaryMetric/CountDeclClass": 15,
+    "summaryMetric/CountDeclFile": 10,
+    "summaryMetric/CountDeclFunction": 69,
+    "summaryMetric/CountLine": 1431,
+    "summaryMetric/CountLineBlank": 78,
+    "summaryMetric/CountLineCode": 1284,
+    "summaryMetric/CountLineComment": 70,
+    "summaryMetric/CountStmtDecl": 382,
+    "summaryMetric/CountStmtExe": 790,
+    "summaryMetric/RatioCommentToCode": 0.05,
+    "summaryMetrics": "Name,Value\nClasses,15\nFiles,10\nFunctions,69\nLines,1431\nBlank Lines,78\nCode Lines,1284\nComment Lines,70\nDeclarative Statements,382\nExecutable Statements,790\nComment to Code Ratio,0.05\n"
+}

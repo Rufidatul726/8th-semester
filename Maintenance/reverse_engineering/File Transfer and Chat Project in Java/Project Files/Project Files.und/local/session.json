@@ -1,0 +1,813 @@
+{
+    "Session": "default",
+    "Sessions": {
+        "default": {
+            "SessionData": {
+                "1_1536x864": {
+                    "ArchitectWindow": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget",
+                            "EntityFilter"
+                        ]
+                    },
+                    "DependencyBrowserWidget2_0": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "DockWidgets": {
+                        "FloatingWidgetOrder": [
+                        ],
+                        "OpenWindows": {
+                            "00SuggestionsBrowser": {
+                                "height": 704,
+                                "width": 250
+                            },
+                            "01ProjectOverviewWidget": {
+                                "height": 351,
+                                "width": 285
+                            },
+                            "02EntityFilter": {
+                                "height": 328,
+                                "width": 285
+                            },
+                            "03ArchitectWindow": {
+                                "height": 351,
+                                "width": 285
+                            },
+                            "04InfoBrowserWidget_0": {
+                                "height": 349,
+                                "width": 305
+                            }
+                        },
+                        "TabGroupFrontWidgets": [
+                            "EntityFilter"
+                        ]
+                    },
+                    "EntityFilter": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "ProjectOverviewWidget",
+                            "ArchitectWindow"
+                        ]
+                    },
+                    "InfoBrowserWidget_0": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "IssueBrowser": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ProjectMetricsWidget": {
+                        "Dock Area": 8,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    },
+                    "ProjectOverviewWidget": {
+                        "Dock Area": 1,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                            "EntityFilter",
+                            "ArchitectWindow"
+                        ]
+                    },
+                    "SuggestionsBrowser": {
+                        "Dock Area": 2,
+                        "Dock In Drawer Mode": false,
+                        "Dock Is Floating": false,
+                        "Dock Tab Group": [
+                        ]
+                    }
+                },
+                "DependencyBrowserWidget_0": {
+                    "CurrentSelection": "@l./chat.java",
+                    "SplitterState": "AAAA/wAAAAEAAAACAAABAAAAAQAB/////wEAAAABAA=="
+                },
+                "EditorWindowSetting": {
+                    "37b6f71d4a6398e9cbc1b80ee83f1c6a": {
+                        "anchor": {
+                            "line": 6,
+                            "offset": 6
+                        },
+                        "caret": {
+                            "line": 6,
+                            "offset": 15
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "42ad1a9c9149b1d319b0a4a088f0e09f": {
+                        "anchor": {
+                            "line": 4,
+                            "offset": 27
+                        },
+                        "caret": {
+                            "line": 4,
+                            "offset": 37
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "438d19fee4b9f165f6995ffd66a9141d": {
+                        "anchor": {
+                            "line": 67,
+                            "offset": 16
+                        },
+                        "caret": {
+                            "line": 67,
+                            "offset": 28
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 45,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "517ded36c20446a163930f54802aaa34": {
+                        "anchor": {
+                            "line": 11,
+                            "offset": 14
+                        },
+                        "caret": {
+                            "line": 11,
+                            "offset": 14
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "69a32a8c5e910241ab7f43eca96805bc": {
+                        "anchor": {
+                            "line": 44,
+                            "offset": 12
+                        },
+                        "caret": {
+                            "line": 44,
+                            "offset": 27
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "81be1e47eb2291126b330af30c7173c1": {
+                        "anchor": {
+                            "line": 15,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 15,
+                            "offset": 7
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "926ef2edf38f5fb2d5fe4f45b69acb9b": {
+                        "anchor": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 0,
+                            "offset": 0
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "97886794c3e276935b1249d506c84282": {
+                        "anchor": {
+                            "line": 63,
+                            "offset": 5
+                        },
+                        "caret": {
+                            "line": 63,
+                            "offset": 10
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 41,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "f072a8c92cf830bdfe086e9dcba5f43c": {
+                        "anchor": {
+                            "line": 24,
+                            "offset": 0
+                        },
+                        "caret": {
+                            "line": 24,
+                            "offset": 4
+                        },
+                        "container": 1,
+                        "height": 703,
+                        "hscroll": 0,
+                        "isMaximized": false,
+                        "vscroll": 0,
+                        "width": 973,
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                "EntityFilter": {
+                    "LastEntityFilterUsed": "Classes"
+                },
+                "GraphCustomizerTemporarySets": {
+                    "1": {
+                        "Data Flow Out && Data Flow In": {
+                            "Type=Entity ID=@l.#SLASH#chatform1.java": {
+                                "1": {
+                                    "CreatedOn": "2024-12-03",
+                                    "EntNodeOpts": {
+                                        "@lInteger@kj6Integer": 2179,
+                                        "@lSystem@kj6System": 2179,
+                                        "@lchatform1.b@kj6chatform1.b@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.chatform1.cli@kj6chatform1.chatform1.cli@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.chatform1.inet@kj6chatform1.chatform1.inet@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.chatform1.str@kj6chatform1.chatform1.str@f.#SLASH#chatform1.java": 134531,
+                                        "@lchatform1.chatform1.t@kj6chatform1.chatform1.t@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.chatform1.x@kj6chatform1.chatform1.x@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.chatform1@kj1chatform1.chatform1@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.main@kj1chatform1.mainString[]@f.#SLASH#chatform1.java": 2179,
+                                        "@lchatform1.mess@kj6chatform1.mess@f.#SLASH#chatform1.java": 134531,
+                                        "@lchatform1.n@kj6chatform1.n@f.#SLASH#chatform1.java": 134531,
+                                        "@lchatform1.out@kj6chatform1.out@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.q@kj6chatform1.q@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.rin@kj6chatform1.rin@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.b1@kj6chatform1.run.b1@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.b@kj6chatform1.run.b@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.flag@kj6chatform1.run.flag@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.fout@kj6chatform1.run.fout@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.mess@kj6chatform1.run.mess@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.msg@kj6chatform1.run.msg@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.pat@kj6chatform1.run.pat@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.s1@kj6chatform1.run.s1@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.sender@kj6chatform1.run.sender@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.size@kj6chatform1.run.size@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.str@kj6chatform1.run.str@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run.time@kj6chatform1.run.time@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.run@kj1chatform1.run@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.user@kj6chatform1.user@f.#SLASH#chatform1.java": 396675,
+                                        "@lchatform1.v@kj6chatform1.v@f.#SLASH#chatform1.java": 134531,
+                                        "@lchatform1.z@kj6chatform1.z@f.#SLASH#chatform1.java": 134531,
+                                        "@lchatform1@kj5chatform1@f.#SLASH#chatform1.java": 131,
+                                        "@lclientform.clientform@kj1clientform.clientformString@f.#SLASH#clientform.java": 263427,
+                                        "@lendsWith@kj1endsWith": 1283,
+                                        "@lequalsIgnoreCase@kj1equalsIgnoreCase": 1283,
+                                        "@lexec@kj1exec": 1283,
+                                        "@lexit@kj1exit": 1283,
+                                        "@lflush@kj1flush": 1283,
+                                        "@lgetBytes@kj1getBytes": 1283,
+                                        "@lgetHostAddress@kj1getHostAddress": 1283,
+                                        "@lgetInputStream@kj1getInputStream": 1283,
+                                        "@lgetLocalHost@kj1getLocalHost": 1283,
+                                        "@lgetOutputStream@kj1getOutputStream": 1283,
+                                        "@lgetRuntime@kj1getRuntime": 1283,
+                                        "@lin@kj6in": 2179,
+                                        "@lindexOf@kj1indexOf": 1283,
+                                        "@llength@kj6length@f.#SLASH#killall.java": 2179,
+                                        "@lnextToken@kj1nextToken": 1283,
+                                        "@lout@kj6out": 2179,
+                                        "@lparseInt@kj1parseInt": 1283,
+                                        "@lprintln@kj1println": 1283,
+                                        "@lquitting.kin@kj6quitting.kin@f.#SLASH#chatform1.java": 396675,
+                                        "@lquitting.out@kj6quitting.out@f.#SLASH#chatform1.java": 134531,
+                                        "@lquitting.quitting@kj1quitting.quittingDataOutputStream,String@f.#SLASH#chatform1.java": 396675,
+                                        "@lquitting.run.ls@kj6quitting.run.ls@f.#SLASH#chatform1.java": 396675,
+                                        "@lquitting.run.p@kj6quitting.run.p@f.#SLASH#chatform1.java": 396675,
+                                        "@lquitting.run.r@kj6quitting.run.r@f.#SLASH#chatform1.java": 396675,
+                                        "@lquitting.run@kj1quitting.run@f.#SLASH#chatform1.java": 396675,
+                                        "@lquitting.user@kj6quitting.user@f.#SLASH#chatform1.java": 134531,
+                                        "@lquitting@kj5quitting@f.#SLASH#chatform1.java": 131,
+                                        "@lread@kj1read": 1283,
+                                        "@lreadFully@kj1readFully": 1283,
+                                        "@lreadLine@kj1readLine": 1283,
+                                        "@lresume@kj1resume": 1283,
+                                        "@lstart@kj1start": 1283,
+                                        "@lsuspend@kj1suspend": 1283,
+                                        "@ltrim@kj1trim": 1283,
+                                        "@lwaitFor@kj1waitFor": 1283,
+                                        "@lwrite@kj1write": 1283
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Butterfly",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2024-12-03",
+                                    "NodeAggregation": "Architecture: Directory Structure",
+                                    "Theme": "STI_OBJECT_REFS",
+                                    "graphdisplay_center_x": 340,
+                                    "graphdisplay_center_y": 1032,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1536x864": {
+                                            "container": 1,
+                                            "height": 704,
+                                            "isMaximized": false,
+                                            "width": 971,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "chatform1.java"
+                            }
+                        }
+                    },
+                    "13": {
+                        "Data Flow Out && Data Flow In": {
+                            "Type=Entity ID=@lform1@kj5form1@f.#SLASH#form1.java": {
+                                "13": {
+                                    "CreatedOn": "2024-12-03",
+                                    "EntNodeOpts": {
+                                        "@lBOLD@kj6BOLD": 130,
+                                        "@lCENTER@kj6CENTER": 130,
+                                        "@lFont@kj6Font": 130,
+                                        "@lHORIZONTAL_SCROLLBAR_AS_NEEDED@kj6HORIZONTAL_SCROLLBAR_AS_NEEDED": 130,
+                                        "@lSOUTH@kj6SOUTH": 130,
+                                        "@lScrollPaneConstants@kj6ScrollPaneConstants": 130,
+                                        "@lVERTICAL_SCROLLBAR_AS_NEEDED@kj6VERTICAL_SCROLLBAR_AS_NEEDED": 130,
+                                        "@ladd@kj1add": 258,
+                                        "@laddActionListener@kj1addActionListener": 258,
+                                        "@lappend@kj1append": 258,
+                                        "@lchat.chat@kj1chat.chat@f.#SLASH#chat.java": 130,
+                                        "@lchat.mouseClicked.l@kj6chat.mouseClicked.l@f.#SLASH#chat.java": 130,
+                                        "@lchat.mouseClicked@kj1chat.mouseClickedMouseEvent@f.#SLASH#chat.java": 130,
+                                        "@lchat.user@kj6chat.user@f.#SLASH#chat.java": 130,
+                                        "@lchat@kj5chat@f.#SLASH#chat.java": 130,
+                                        "@ldisable@kj1disable": 258,
+                                        "@lform1.actionPerformed.s@kj6form1.actionPerformed.s@f.#SLASH#form1.java": 258,
+                                        "@lform1.actionPerformed@kj1form1.actionPerformedActionEvent@f.#SLASH#form1.java": 258,
+                                        "@lform1.app@kj6form1.app@f.#SLASH#form1.java": 3458,
+                                        "@lform1.ch@kj6form1.ch@f.#SLASH#form1.java": 3458,
+                                        "@lform1.exit@kj6form1.exit@f.#SLASH#form1.java": 3458,
+                                        "@lform1.form1.c@kj6form1.form1.c@f.#SLASH#form1.java": 386,
+                                        "@lform1.form1.h@kj6form1.form1.h@f.#SLASH#form1.java": 386,
+                                        "@lform1.form1.p1@kj6form1.form1.p1@f.#SLASH#form1.java": 386,
+                                        "@lform1.form1.p2@kj6form1.form1.p2@f.#SLASH#form1.java": 386,
+                                        "@lform1.form1.p3@kj6form1.form1.p3@f.#SLASH#form1.java": 386,
+                                        "@lform1.form1.v@kj6form1.form1.v@f.#SLASH#form1.java": 386,
+                                        "@lform1.form1@kj1form1.form1String,String,chat@f.#SLASH#form1.java": 386,
+                                        "@lform1.jsp@kj6form1.jsp@f.#SLASH#form1.java": 3458,
+                                        "@lform1.l@kj6form1.l@f.#SLASH#form1.java": 3458,
+                                        "@lform1.rece@kj6form1.rece@f.#SLASH#form1.java": 3458,
+                                        "@lform1.send@kj6form1.send@f.#SLASH#form1.java": 3458,
+                                        "@lform1.snd@kj6form1.snd@f.#SLASH#form1.java": 3458,
+                                        "@lform1.ta@kj6form1.ta@f.#SLASH#form1.java": 3458,
+                                        "@lform1.tf@kj6form1.tf@f.#SLASH#form1.java": 3458,
+                                        "@lform1.x@kj6form1.x@f.#SLASH#form1.java": 3458,
+                                        "@lform1@kj5form1@f.#SLASH#form1.java": 130,
+                                        "@lgetBytes@kj1getBytes": 258,
+                                        "@lgetContentPane@kj1getContentPane": 258,
+                                        "@lgetSource@kj1getSource": 258,
+                                        "@lgetText@kj1getText": 258,
+                                        "@lprintln@kj1println": 258,
+                                        "@lsetFont@kj1setFont": 258,
+                                        "@lsetLayout@kj1setLayout": 258,
+                                        "@lsetLocation@kj1setLocation": 258,
+                                        "@lsetSize@kj1setSize": 258,
+                                        "@lsetText@kj1setText": 258,
+                                        "@lsetVisible@kj1setVisible": 258,
+                                        "@lwrite@kj1write": 258
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Butterfly",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2024-12-03",
+                                    "NodeAggregation": "Class",
+                                    "Theme": "STI_OBJECT_REFS",
+                                    "graphdisplay_center_x": 250.6666666666667,
+                                    "graphdisplay_center_y": -422.6666666666667,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 60,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1536x864": {
+                                            "container": 1,
+                                            "height": 704,
+                                            "isMaximized": false,
+                                            "width": 971,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "form1"
+                            }
+                        }
+                    },
+                    "14": {
+                        "Data Flow Out && Data Flow In": {
+                            "Type=Entity ID=@lchatform1@kj5chatform1@f.#SLASH#chatform1.java": {
+                                "14": {
+                                    "CreatedOn": "2024-12-03",
+                                    "EntNodeOpts": {
+                                        "@lSystem@kj6System": 2178,
+                                        "@lchatform1.b@kj6chatform1.b@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.chatform1.cli@kj6chatform1.chatform1.cli@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.chatform1.inet@kj6chatform1.chatform1.inet@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.chatform1.str@kj6chatform1.chatform1.str@f.#SLASH#chatform1.java": 1282,
+                                        "@lchatform1.chatform1.t@kj6chatform1.chatform1.t@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.chatform1.x@kj6chatform1.chatform1.x@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.chatform1@kj1chatform1.chatform1@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.main@kj1chatform1.mainString[]@f.#SLASH#chatform1.java": 2178,
+                                        "@lchatform1.mess@kj6chatform1.mess@f.#SLASH#chatform1.java": 134530,
+                                        "@lchatform1.n@kj6chatform1.n@f.#SLASH#chatform1.java": 134530,
+                                        "@lchatform1.out@kj6chatform1.out@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.q@kj6chatform1.q@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.rin@kj6chatform1.rin@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.run.b1@kj6chatform1.run.b1@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.b@kj6chatform1.run.b@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.flag@kj6chatform1.run.flag@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.fout@kj6chatform1.run.fout@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.mess@kj6chatform1.run.mess@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.msg@kj6chatform1.run.msg@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.pat@kj6chatform1.run.pat@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.s1@kj6chatform1.run.s1@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.sender@kj6chatform1.run.sender@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.size@kj6chatform1.run.size@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.str@kj6chatform1.run.str@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run.time@kj6chatform1.run.time@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.run@kj1chatform1.run@f.#SLASH#chatform1.java": 263426,
+                                        "@lchatform1.user@kj6chatform1.user@f.#SLASH#chatform1.java": 396674,
+                                        "@lchatform1.v@kj6chatform1.v@f.#SLASH#chatform1.java": 134530,
+                                        "@lchatform1.z@kj6chatform1.z@f.#SLASH#chatform1.java": 134530,
+                                        "@lchatform1@kj5chatform1@f.#SLASH#chatform1.java": 131,
+                                        "@lclientform.clientform@kj1clientform.clientformString@f.#SLASH#clientform.java": 1282,
+                                        "@lendsWith@kj1endsWith": 1282,
+                                        "@lexit@kj1exit": 1282,
+                                        "@lflush@kj1flush": 1282,
+                                        "@lgetBytes@kj1getBytes": 1282,
+                                        "@lgetHostAddress@kj1getHostAddress": 1282,
+                                        "@lgetInputStream@kj1getInputStream": 1282,
+                                        "@lgetLocalHost@kj1getLocalHost": 1282,
+                                        "@lgetOutputStream@kj1getOutputStream": 1282,
+                                        "@lindexOf@kj1indexOf": 1282,
+                                        "@llength@kj6length@f.#SLASH#killall.java": 2178,
+                                        "@lnextToken@kj1nextToken": 1282,
+                                        "@lout@kj6out": 2178,
+                                        "@lparseInt@kj1parseInt": 1282,
+                                        "@lprintln@kj1println": 1282,
+                                        "@lquitting.quitting@kj1quitting.quittingDataOutputStream,String@f.#SLASH#chatform1.java": 1282,
+                                        "@lread@kj1read": 1282,
+                                        "@lreadFully@kj1readFully": 1282,
+                                        "@lresume@kj1resume": 1282,
+                                        "@lstart@kj1start": 1282,
+                                        "@lsuspend@kj1suspend": 1282,
+                                        "@ltrim@kj1trim": 1282,
+                                        "@lwrite@kj1write": 1282
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Butterfly",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2024-12-03",
+                                    "NodeAggregation": "Class",
+                                    "Theme": "STI_OBJECT_REFS",
+                                    "graphdisplay_center_x": 376,
+                                    "graphdisplay_center_y": 186,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1536x864": {
+                                            "container": 1,
+                                            "height": 704,
+                                            "isMaximized": false,
+                                            "width": 971,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "chatform1"
+                            }
+                        }
+                    },
+                    "15": {
+                        "Data Flow Out && Data Flow In": {
+                            "Type=Entity ID=@lchatform@kj5chatform@f.#SLASH#chatform.java": {
+                                "15": {
+                                    "CreatedOn": "2024-12-03",
+                                    "EntNodeOpts": {
+                                        "@lchatform@kj5chatform@f.#SLASH#chatform.java": 3331
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Internal",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2024-12-03",
+                                    "NodeAggregation": "Class",
+                                    "Theme": "STI_OBJECT_REFS",
+                                    "customizer_splitter_state": "AAAA/wAAAAEAAAACAAADLQAAAJsB/////wEAAAABAA==",
+                                    "graphdisplay_center_x": 497,
+                                    "graphdisplay_center_y": 34,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1536x864": {
+                                            "container": 1,
+                                            "height": 704,
+                                            "isMaximized": false,
+                                            "width": 971,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "chatform"
+                            }
+                        }
+                    },
+                    "2": {
+                        "Calls && Called By": {
+                            "Type=Entity ID=@l.#SLASH#chatform1.java": {
+                                "2": {
+                                    "CreatedOn": "2024-12-03",
+                                    "EntNodeOpts": {
+                                        "@ladd@kj1add": 1282,
+                                        "@laddWindowListener@kj1addWindowListener": 1282,
+                                        "@lchatform1.chatform1@kj1chatform1.chatform1@f.#SLASH#chatform1.java": 3458,
+                                        "@lchatform1.main@kj1chatform1.mainString[]@f.#SLASH#chatform1.java": 3458,
+                                        "@lchatform1.run@kj1chatform1.run@f.#SLASH#chatform1.java": 3458,
+                                        "@lclientform.clientform@kj1clientform.clientformString@f.#SLASH#clientform.java": 1282,
+                                        "@ldisable@kj1disable": 1282,
+                                        "@lendsWith@kj1endsWith": 1282,
+                                        "@lequalsIgnoreCase@kj1equalsIgnoreCase": 1282,
+                                        "@lexec@kj1exec": 1282,
+                                        "@lexit@kj1exit": 1282,
+                                        "@lflush@kj1flush": 1282,
+                                        "@lgetBytes@kj1getBytes": 1282,
+                                        "@lgetHostAddress@kj1getHostAddress": 1282,
+                                        "@lgetInputStream@kj1getInputStream": 1282,
+                                        "@lgetLocalHost@kj1getLocalHost": 1282,
+                                        "@lgetOutputStream@kj1getOutputStream": 1282,
+                                        "@lgetRuntime@kj1getRuntime": 1282,
+                                        "@lindexOf@kj1indexOf": 1282,
+                                        "@lnextToken@kj1nextToken": 1282,
+                                        "@lparseInt@kj1parseInt": 1282,
+                                        "@lprintln@kj1println": 1282,
+                                        "@lquitting.quitting@kj1quitting.quittingDataOutputStream,String@f.#SLASH#chatform1.java": 3458,
+                                        "@lquitting.run@kj1quitting.run@f.#SLASH#chatform1.java": 3458,
+                                        "@lread@kj1read": 1282,
+                                        "@lreadFully@kj1readFully": 1282,
+                                        "@lreadLine@kj1readLine": 1282,
+                                        "@lresume@kj1resume": 1282,
+                                        "@lsetBackground@kj1setBackground": 1282,
+                                        "@lsetFont@kj1setFont": 1282,
+                                        "@lsetForeground@kj1setForeground": 1282,
+                                        "@lsetLayout@kj1setLayout": 1282,
+                                        "@lsetLocation@kj1setLocation": 1282,
+                                        "@lsetSize@kj1setSize": 1282,
+                                        "@lsetText@kj1setText": 1282,
+                                        "@lsetVisible@kj1setVisible": 1282,
+                                        "@lstart@kj1start": 1282,
+                                        "@lsuspend@kj1suspend": 1282,
+                                        "@ltrim@kj1trim": 1282,
+                                        "@lwaitFor@kj1waitFor": 1282,
+                                        "@lwrite@kj1write": 1282
+                                    },
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Butterfly",
+                                    "HideUnhighlightedEdges": 0,
+                                    "HideUnhighlightedNodes": 0,
+                                    "LastModifiedOn": "2024-12-03",
+                                    "NodeAggregation": "File",
+                                    "Theme": "STI_CALLS",
+                                    "graphdisplay_center_x": 261.42857142857144,
+                                    "graphdisplay_center_y": 581.4285714285714,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 70,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1536x864": {
+                                            "container": 1,
+                                            "height": 704,
+                                            "isMaximized": false,
+                                            "width": 971,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "chatform1.java"
+                            }
+                        }
+                    },
+                    "5": {
+                        "Control Flow": {
+                            "Type=Entity ID=@lserver3.send@kj1server3.sendString@f.#SLASH#ftpser1.java": {
+                                "5": {
+                                    "CreatedOn": "2024-12-03",
+                                    "FormatVersion": 1,
+                                    "GraphStyle": "Classic",
+                                    "HideUnhighlightedNodes": 0,
+                                    "IdNodeOpts": {
+                                        "@lserver3.send@kj1server3.sendString@f.#SLASH#ftpser1.java - 7": 1,
+                                        "@lserver3.send@kj1server3.sendString@f.#SLASH#ftpser1.java - 8": 1
+                                    },
+                                    "LastModifiedOn": "2024-12-03",
+                                    "Theme": "STI_CONTROL_FLOW",
+                                    "graphdisplay_center_x": 129,
+                                    "graphdisplay_center_y": 198,
+                                    "graphdisplay_overview_x": 10,
+                                    "graphdisplay_overview_y": 10,
+                                    "graphdisplay_zoom": 100,
+                                    "graphwindow_fitheight": false,
+                                    "graphwindow_fitwidth": false,
+                                    "graphwindow_radar": true,
+                                    "graphwindow_reuse": false,
+                                    "graphwindow_sync": false,
+                                    "window": {
+                                        "1_1536x864": {
+                                            "container": 1,
+                                            "height": 704,
+                                            "isMaximized": false,
+                                            "width": 971,
+                                            "x": 0,
+                                            "y": 0
+                                        }
+                                    }
+                                },
+                                "GraphRootName": "send"
+                            }
+                        }
+                    }
+                },
+                "GraphDisplaySetting": {
+                    "Data Flow Out && Data Flow In": {
+                        "file": {
+                            "Aggregate Nodes by": "Architecture: Directory Structure"
+                        }
+                    }
+                },
+                "GraphWindowList": [
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lchatform@kj5chatform@f./chatform.java:|:15:|:Data Flow Out && Data Flow In : chatform",
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lchatform1@kj5chatform1@f./chatform1.java:|:14:|:Data Flow Out && Data Flow In : chatform1",
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lform1@kj5form1@f./form1.java:|:13:|:Data Flow Out && Data Flow In : form1",
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@l./chatform1.java:|:1:|:Data Flow Out && Data Flow In : chatform1.java",
+                    "Graph:|:Unused:Calls && Called By:|:@l./chatform1.java:|:2:|:Calls && Called By : chatform1.java",
+                    "Graph:|:Unused:Control Flow:|:@lserver3.send@kj1server3.sendString@f./ftpser1.java:|:5:|:Control Flow : send"
+                ],
+                "GraphicFilterSettings": {
+                    "Enabled": false
+                },
+                "IBExpansions": {
+                    "InfoBrowserWidget": [
+                        "Jovial References",
+                        "Python References",
+                        "Java Public Classes",
+                        "WEB References",
+                        "WEB Possible References",
+                        "Java Public",
+                        "Asm References",
+                        "Ada References",
+                        "Ftn References",
+                        "Graphs",
+                        "Java Default Methods",
+                        "VHDL References",
+                        "c# References",
+                        "Java Default",
+                        "C++ References",
+                        "Java Public Methods",
+                        "basic References",
+                        "Pascal References"
+                    ]
+                },
+                "IBOptions": {
+                },
+                "InfoBrowserWindowManager": {
+                    "InfoBrowserFileSyncInst": -1,
+                    "InfoBrowserSyncInst": [
+                        "0"
+                    ]
+                },
+                "LastAccessedPid": "2160",
+                "LastDisplayGroup": "1_1536x864",
+                "MaintainEditorHistory": {
+                    "FileRanges": {
+                        "size": 0
+                    },
+                    "index": -1
+                },
+                "MiscSaveStates": {
+                    "entitySelected": "@lchatform@kj5chatform@f./chatform.java",
+                    "ib": "entity:||:@lchatform@kj5chatform@f./chatform.java:||:Data Flow Out && Data Flow In",
+                    "selection": "chatform"
+                },
+                "ProjectMetricsBrowser": {
+                    "Overwrite": false,
+                    "SaveDirectory": "./."
+                },
+                "ProjectUI": {
+                    "projectviewcuritem": "chatform1.java",
+                    "projectviewselection": [
+                        "chatform1.java"
+                    ]
+                },
+                "SplitWorkspace1SelectedTab": "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lchatform@kj5chatform@f./chatform.java:|:15:|:Data Flow Out && Data Flow In : chatform",
+                "SplitWorkspace1Tabs": [
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@l./chatform1.java:|:1:|:Data Flow Out && Data Flow In : chatform1.java",
+                    "Graph:|:Unused:Calls && Called By:|:@l./chatform1.java:|:2:|:Calls && Called By : chatform1.java",
+                    "Graph:|:Unused:Control Flow:|:@lserver3.send@kj1server3.sendString@f./ftpser1.java:|:5:|:Control Flow : send",
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lform1@kj5form1@f./form1.java:|:13:|:Data Flow Out && Data Flow In : form1",
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lchatform1@kj5chatform1@f./chatform1.java:|:14:|:Data Flow Out && Data Flow In : chatform1",
+                    "Graph:|:Unused:Data Flow Out && Data Flow In:|:@lchatform@kj5chatform@f./chatform.java:|:15:|:Data Flow Out && Data Flow In : chatform"
+                ],
+                "SplittableWorkspace": {
+                    "active workspace": 0,
+                    "primary ws size": 971,
+                    "split orientation": -1
+                },
+                "tags": {
+                    "expanded": [
+                    ]
+                }
+            }
+        }
+    }
+}

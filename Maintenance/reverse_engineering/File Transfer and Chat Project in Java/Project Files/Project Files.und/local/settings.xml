@@ -1,0 +1,33 @@
+<project>
+  <files>
+    <dir
+      name=".">
+      <watched
+        excludes=".*"
+        subdirs="true">
+        <filter
+          name="Java"/>
+      </watched>
+      <auto
+        name="chat.java"/>
+      <auto
+        name="chatform.java"/>
+      <auto
+        name="chatform1.java"/>
+      <auto
+        name="clientform.java"/>
+      <auto
+        name="filter.java"/>
+      <auto
+        name="form1.java"/>
+      <auto
+        name="ftpser1.java"/>
+      <auto
+        name="killall.java"/>
+      <auto
+        name="menu1.java"/>
+      <auto
+        name="sendall.java"/>
+    </dir>
+  </files>
+</project>
